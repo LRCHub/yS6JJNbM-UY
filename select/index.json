@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Bokeh",
+  "base_artist": "ぽんぽこ",
+  "createdAt": "2026-02-07T02:51:39.350309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bokeh",
+      "artist": "Sino Mx",
+      "has_synced": false,
+      "path": "select/01_Bokeh_Sino_Mx.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "bokeh",
+      "artist": "Nostraightanswer",
+      "has_synced": true,
+      "path": "select/02_bokeh_Nostraightanswer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bokeh 21",
+      "artist": "Odd Couple",
+      "has_synced": true,
+      "path": "select/03_Bokeh_21_Odd_Couple.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bokeh",
+      "artist": "Yonyo",
+      "has_synced": true,
+      "path": "select/04_Bokeh_Yonyo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bokeh",
+      "artist": "ぽんぽこ",
+      "has_synced": false,
+      "path": "select/pl_01_Bokeh_ぽんぽこ.txt"
+    }
+  ]
+}
